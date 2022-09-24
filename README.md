@@ -6,6 +6,12 @@
 | Salsabila Briliana A. S.  | 5027201003 |
 | Muhammad Rifqi Fernanda   | 5027201050 |
 | Gilang Bayu Gumantara     | 5027201062 | 
+## Soal 1
+---
+1. Sebutkan web server yang digunakan pada "monta.if.its.ac.id"! 
+### Solution
+--- 
+Dikarenakan yang dicari adalah web, kita harus menggunakan display filter yaitu http. Lalu kita mendapatkan web servernya yaitu nginx/1.10.3
 
 
 ## Study Case Soal 8-10
