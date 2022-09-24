@@ -8,6 +8,12 @@
 | Gilang Bayu Gumantara     | 5027201062 | 
 
 ## Soal 1 
+---
+Sebutkan web server yang digunakan pada "monta.if.its.ac.id!
+### Solution 
+---
+Dikarenakan web kita harus memakai display filter yaitu http, lalu kita menemeukan webserver yang digunakan pada "monta.if.its.ac.id yaitu nginx/1.10.3
+
 ## Study Case Soal 8-10
 ---
 Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informatika yang baru saja menetapkan kebijakan baru. Dalam kebijakan baru tersebut, pemerintah dapat mengakses data pribadi masyarakat secara bebas jika memang dibutuhkan, baik dengan maupun tanpa persetujuan pihak yang bersangkutan. Sebagai mahasiswa yang sedang melaksanakan program magang di kementerian tersebut, kalian mendapat tugas berupa penyadapan percakapan mahasiswa yang diduga melakukan tindak kecurangan dalam kegiatan Praktikum Komunikasi Data dan Jaringan Komputer 2022. Selain itu, terdapat sebuah password rahasia (flag) yang diduga merupakan milik sebuah organisasi bawah tanah yang selama ini tidak sejalan dengan pemerintahan Planet Viltrumite. Tunggu apa lagi, segera kerjakan tugas magang tersebut agar kalian bisa mendapatkan pujian serta kenaikan jabatan di kementerian tersebut!
