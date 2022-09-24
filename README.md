@@ -7,6 +7,12 @@
 | Muhammad Rifqi Fernanda   | 5027201050 |
 | Gilang Bayu Gumantara     | 5027201062 | 
 
+## Soal 1
+---
+Sebutkan web server yang digunakan pada "monta.if.its.ac.id"! 
+### Solution
+---
+Memberikan Display filter yaitu HTTP karena pada soal yang diketahui adalah web server 
 
 ## Study Case Soal 8-10
 ---
